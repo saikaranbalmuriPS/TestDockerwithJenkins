@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+in master test file
+=======
+<<<<<<< HEAD
+changes made locally in branch: docker-test
+after branching
+=======
+Changes made in remote 
+after branching 
+>>>>>>> 7d838c9c0d48621f36138acdd6d831ecf32ecccd
+>>>>>>> docker-test
